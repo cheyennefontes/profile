@@ -62,3 +62,31 @@ a:hover {
   border: solid #F2A07B 1px;
   background: #F2A07B;
 }
+
+@media (max-width: 1280px) {
+  .container {
+    width: 900px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 960px) {
+  .container {
+    width: 700px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 720px) {
+  .container {
+    width: 500px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+    margin: 0 auto;
+  }
+}
