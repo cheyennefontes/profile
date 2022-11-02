@@ -1,0 +1,64 @@
+body {
+  text-align: center;
+  padding: 25px;
+  background-image: url("https://i.pinimg.com/564x/35/17/13/3517133f968ee4daf609a0629473271c.jpg")
+}
+
+h1, h2, h3 {
+  font-family: "PT Sans", sans-serif;
+  color: white;
+}
+
+ strong {
+  color: #F2A07B;
+  font-size: 22px;
+ }
+
+ p {
+  font-size: 22px;
+ }
+
+.card {
+  background-color: #19181A;
+  color: white;
+  padding: 50px;
+  width: 500px;
+  margin: 25px auto;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+}
+
+#profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+a {
+  background-color: white;
+  padding: 10px;
+  width: 50px;
+  margin: 25px auto;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #000000;
+  font-size: 18px;
+  font-weight: bold;
+  transition: 0.1s ease;
+  font-size: 25px;
+}
+
+li {
+  display: inline;
+}
+
+ul {
+  padding: 10px;
+}
+
+a:hover {
+  color: #000000;
+  border: solid #F2A07B 1px;
+  background: #F2A07B;
+}
