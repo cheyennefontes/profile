@@ -28,7 +28,8 @@
 
 body {
   text-align: center;
-  background-image: url("https://i.pinimg.com/564x/35/17/13/3517133f968ee4daf609a0629473271c.jpg")
+  background-image: url("https://i.pinimg.com/564x/35/17/13/3517133f968ee4daf609a0629473271c.jpg");
+  display: block;
 }
 
 h1, h2, h3 {
